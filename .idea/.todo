@@ -1,5 +1,8 @@
 - [ ] automation keyboard & mouse
 - [ ] automation email
 - [ ] automation pdf
-- [ ] **automation file management: rename,move,copy
+- [ ] **automation file management
+    - [X] rename
+    - [ ] move
+    - [ ] copy
 - [ ] automation drawing
